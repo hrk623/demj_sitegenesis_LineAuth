@@ -1,10 +1,10 @@
 # demj_sitegenesis_LineAuth
 
-##Prerequisites
+## Prerequisites
 - This cartridge depends on sites cretaed based on Community SiteGenesis.
 - This cartridge is provided strictly for your reference and has no support on any kind of questions or requestes.
 
-##How to install
+## How to install
 1. Clone this repository.
 ```bash
 git clone https://github.com/hrk623/demj_sitegenesis_LineAuth.git
